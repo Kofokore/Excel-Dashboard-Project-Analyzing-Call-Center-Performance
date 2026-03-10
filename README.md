@@ -8,3 +8,9 @@ To monitor call trends over time
 To measure the performance of call center agents
 To analyze customer interaction patterns across different agents
 To make decisions for improving sales and effectiveness of marketing
+### Tools Used
+. Microsoft Excel
+. Data Cleaning
+. KPI Tracking
+. Pivot tables
+. Pivot Charts
