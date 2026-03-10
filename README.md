@@ -1,2 +1,3 @@
-# Excel-Dashboard-Project-Analyzing-Call-Center-Performance
-This is an excel project that tracks the performance of all call agents in the sales and marketing department of an organization
+# Call Center Performance Analysis
+## Project Overview
+This project analyzes the performance of all the call agents in the sales and marketing department of the organization. The goal of this project is to assess   customers engagement, agent productivity and variations, and call outcomes using dynamic visualizations. The dataset contains data ranging from product discussions, customer demographics, call ratings, reasons why customers ignore calls. The analysis provides actionable insights and recommendations that can help in increasing agent productivity, increase successful call rates, increase sales by optimizing call abandonment issues.
