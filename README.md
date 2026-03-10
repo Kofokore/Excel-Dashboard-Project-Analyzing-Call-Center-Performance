@@ -8,9 +8,16 @@ To monitor call trends over time
 To measure the performance of call center agents
 To analyze customer interaction patterns across different agents
 To make decisions for improving sales and effectiveness of marketing
+### Insights from Analysis
+1. High call volume does not always equate to call success rate. Call quality is more paramount than call quantity
+2. Agent productivity varies significantly
+3. Call abandonment is a major challenge
+4. Customer interest in products is uneven. Certain products are discussed more during calls, this suggest more demand for some products
 ### Tools Used
 . Microsoft Excel
 . Data Cleaning
 . KPI Tracking
 . Pivot tables
 . Pivot Charts
+### Recommendations
+1
