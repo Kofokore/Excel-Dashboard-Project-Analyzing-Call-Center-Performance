@@ -1,2 +1,2 @@
 # Excel-Dashboard-Project-Analyzing-Call-Center-Performance
-This is an excel project that tracks the performance of all call agents in the sales and marketing department of an organization. This excel dashboard shows the total calls made by each agent, each agent call success rate and products discussed on call among others. Reasons why each agent abandoned calls are also visualized in the dashboard. 
+This is an excel project that tracks the performance of all call agents in the sales and marketing department of an organization
