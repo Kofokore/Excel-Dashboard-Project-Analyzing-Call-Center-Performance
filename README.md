@@ -20,4 +20,5 @@ To make decisions for improving sales and effectiveness of marketing
 . Pivot tables
 . Pivot Charts
 ### Recommendations
-1
+1 Promote high demand products. Products frequently discussed on call by customers should receive more marketing support.
+2. Address causes of abandoned calls. The most common cause of abandoned calls is technical issues. This needs to be addressed
