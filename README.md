@@ -27,3 +27,5 @@ This project analyzes the performance of all the call agents in the sales and ma
  . Review call distribution. Number of calls received by agents should be evenly distributed to avoid burnout and increase productivity 
 
  . States that high volume calls come from should be the target audience for the next marketing campaign
+
+ . Agents with low successs rate should undergo more profession training in customer relationship and sales communication
