@@ -23,3 +23,4 @@ This project analyzes the performance of all the call agents in the sales and ma
  . Promote high demand products. Products frequently discussed on call by customers should receive more marketing support
  
  . Address causes of abandoned calls. The most common cause of abandoned calls is technical issues. This needs to be addressed
+ . Review call distribution. Number of calls received by agents should be evenly distributed to avoid burnout and increase productivity 
